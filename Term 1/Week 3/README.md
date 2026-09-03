@@ -25,7 +25,7 @@ _List the files, or link to them. Notebook exports, screenshots, scripts._
 
 **Project title:**
 
-**My pair partner:**
+**My pair partner:** Bart Bruggeling
 
 **Tool used:** Claude API / OpenAI API
 

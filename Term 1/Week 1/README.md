@@ -25,7 +25,7 @@ _List the files, or link to them. Notebook exports, screenshots, scripts._
 
 **Project title:**
 
-**My pair partner:**
+**My pair partner:** Domilė Žukaitė
 
 **Tool used:** Bolt.new (or Lovable)
 
