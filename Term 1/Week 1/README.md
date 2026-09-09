@@ -99,7 +99,7 @@ Deployed live at: [https://knowledgerunner.alexwr.cc](https://knowledgerunner.al
 
 - [ ] My group presented in this week
 - [x] Slides are in `presentation/`
-- [ ] Proof of the live demo is in `presentation/` (recording, screenshots, or link)
+- [x] Proof of the live demo is in `presentation/` (recording, screenshots, or link)
 
 **How did it go? What would I do differently next time?**
 

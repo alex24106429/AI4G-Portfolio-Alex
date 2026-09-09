@@ -29,14 +29,6 @@ Thumbs.db
 desktop.ini
 
 # --- Editors ---
-.vscode/
 .idea/
 
-# --- Large files: link to them instead of committing them ---
-*.mp4
-*.mov
-*.zip
-*.ckpt
-*.safetensors
-*.pt
-*.pth
+# --- Large files: not gitignored, I use LFS for large files ---
