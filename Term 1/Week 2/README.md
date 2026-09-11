@@ -25,7 +25,7 @@ _List the files, or link to them. Notebook exports, screenshots, scripts._
 
 **Project title:**
 
-**My pair partner:** Yazan Nemo
+**My pair partner:** Max Lopez
 
 **Tool used:** N8N
 
