@@ -25,7 +25,7 @@ _List the files, or link to them. Notebook exports, screenshots, scripts._
 
 **Project title:**
 
-**My pair partner:** Max Lopez
+**My pair partner:** Sandra Wandel
 
 **Tool used:** N8N
 
