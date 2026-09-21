@@ -1,0 +1,11 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Git: Update Submodules",
+			"type": "node",
+			"request": "launch",
+			"preLaunchTask": "git-submodule-update"
+		}
+	]
+}
