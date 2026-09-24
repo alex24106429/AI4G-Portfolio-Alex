@@ -32,3 +32,5 @@ desktop.ini
 .idea/
 
 # --- Large files: not gitignored, I use LFS for large files ---
+
+Term 1/Week 4/homework/*.txt
