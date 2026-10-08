@@ -34,3 +34,4 @@ desktop.ini
 # --- Large files: not gitignored, I use LFS for large files ---
 
 Term 1/Week 4/homework/*.txt
+Term 1/Week 5/hackathon/data
