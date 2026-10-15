@@ -6,3 +6,7 @@
 	path = Term 1/Week 3/hackathon
 	url = https://github.com/alex24106429/Cognita.git
 	branch = main
+[submodule "Term 1/Week 6/hackathon"]
+	path = Term 1/Week 6/hackathon
+	url = https://github.com/alex24106429/hackathon-week6.git
+	branch = main
